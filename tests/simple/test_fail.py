@@ -15,3 +15,6 @@ def test_fail5():
 
 def test_fail6():
     assert False
+
+def test_fail7():
+    assert False
