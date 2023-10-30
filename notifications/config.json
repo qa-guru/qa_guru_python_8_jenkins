@@ -1,0 +1,17 @@
+{
+  "base": {
+    "logo": "",
+    "project": "some project",
+    "environment": "PROD",
+    "comment": "some comment @iterkin",
+    "reportLink": "https://jenkins.autotests.cloud/job/teacher-iTerkin-qa_guru_python_8_jenkins_simple/10/allure",
+    "language": "en",
+    "allureFolder": "allure-report",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6709528275:AAGxPtC-Cabo7pxoGeqVYdQoF2kS33ClzYg",
+    "chat": "-1001947535734",
+    "replyTo": ""
+  }
+}
